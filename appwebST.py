@@ -33,8 +33,8 @@ pg = st.navigation(
 )
 
 # --- LOGO Y DERECHOS DE ACTOR---
-st.logo("img/chatbot.png")
-st.sidebar.markdown("Elaborado con ❤️ por [Streamlit](https://streamlit.io/gallery)")
+#---st.logo("img/chatbot.png")---
+#st.sidebar.markdown("Elaborado con ❤️ por [Streamlit](https://streamlit.io/gallery)")
 
 # --- EJECUTAR NAVEGACION ---
 pg.run()
