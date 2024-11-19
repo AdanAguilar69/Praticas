@@ -50,7 +50,7 @@ Usas herramientas de software antiguas o poco eficientes o procesos en los que u
             """
     )
         with imagen_columna:
-            image_path = "./image/images.jpg"
+            image_path = "./Image/uno.jpg"
             lottie_path = "./Animaciones/pavo.json"
             try:
                 image = Image.open(image_path)
